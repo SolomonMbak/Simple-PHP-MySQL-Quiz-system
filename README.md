@@ -1,5 +1,6 @@
-# Simple-PHP-MySQL-Quiz-system
-It is a quiz system. I registers new users, displays the simple profile, and allows a user write a quiz and get scores at the end of the entire process. You can get the number of attempted questions, un-attempted questions and the questions you got wrong. The overall result is also shown in percentages.
+# Simple-PHP-MySQL-Quiz-system v1.0
+
+It is a quiz system, and this version is not the final, it is just the user section. The admin panel will come in at a letter time. I registers new users, displays the simple profile, and allows a user write a quiz and get scores at the end of the entire process. You can get the number of attempted questions, un-attempted questions and the questions you got wrong. The overall result is also shown in percentages.
 
 PLEASE DO THESE FIRST
 Be sure you have a program like XAMPP installed on your pc.
